@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ #mondos .inside h3 {
+    padding: 20px 0px 0px;
+    font-size: 2em;
+    color: cadetblue;
+    margin-top: 7px;
+    border-top: 2px solid cadetblue;
+}
